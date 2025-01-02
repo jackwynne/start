@@ -1,5 +1,7 @@
 node_modules
 dist
+.vercel
+.vinxi
 *.log
 *.env
 .DS_Store
